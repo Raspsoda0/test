@@ -16,3 +16,4 @@ scaler_triple = np.dot(a,cross_result)
 print("scaler_triple =", scaler_triple)
 
 Touched by user2
+pullrequset
